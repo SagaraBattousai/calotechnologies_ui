@@ -30,6 +30,7 @@ fun CaloBottomAppBar(
         containerColor = MaterialTheme.colorScheme.primaryContainer,
         contentColor = MaterialTheme.colorScheme.primary,
         actions = actions,
+//TODO: Possibly add defaults for this (Colour wise)
         floatingActionButton = floatingActionButton
     )
 }
